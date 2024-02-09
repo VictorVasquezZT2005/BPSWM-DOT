@@ -1,10 +1,5 @@
  <html>
   <body>
-    <p align="center">
-     <img src='https://i.postimg.cc/WzMPRXxZ/cooltext436688135909173.png'>
-   </p>
-    <img src='https://i.postimg.cc/wvPnq09G/1.png'>
-   <img src='https://i.postimg.cc/B66z3CxK/inicio.png'>
    <br/>
    <h3>¡Saludos! ¡Gracias por venir! 💚</h3>
    <p>
@@ -28,8 +23,6 @@
    <h3>🔧 Setup</h3>
    <h4>Para poder instalar y configurar los dotfiles de forma automatizada debes seguir los siguientes pasos:</h4>
    <ol>
-    <li>Descargar repositorio: git clone https://github.com/f3l3p1n0/skullsage.git</li>
-    <li>Acceder al directorio skullsage: cd skullsage</li>
     <li>Ejecutar el instalador (no root): bash install.sh</li>
     <li>Durante la instalación te pedirá instalar el tema de Rofi. Debes elegir el último tema y presionar <strong>enter</strong>. Posteriormente debes presionar <strong>Alt + a</strong>.</li>
     <li>Deja que finalice la instalación hasta que se reinicie el sistema automáticamente.</li>
